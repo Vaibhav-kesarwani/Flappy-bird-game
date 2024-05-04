@@ -1,2 +1,0 @@
-import kaboom from "kaboom"
-
